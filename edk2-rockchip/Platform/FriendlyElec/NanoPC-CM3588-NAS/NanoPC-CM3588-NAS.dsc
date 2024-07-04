@@ -99,6 +99,11 @@
   #
   gRK3588TokenSpaceGuid.PcdI2S0Supported|TRUE
 
+  #
+  # On-Board fan output
+  #
+  gRK3588TokenSpaceGuid.PcdHasOnBoardFanOutput|TRUE
+
 ################################################################################
 #
 # Components Section - list of all EDK II Modules needed by this Platform.
